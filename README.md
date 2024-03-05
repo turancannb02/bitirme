@@ -2,7 +2,7 @@
 
 ## Proje Hakkında
 
-Bu proje, Cevher Hazırlama Mühendisliği alanında eğitim gören öğrenciler ve bu alanda çalışma yürüten profesyoneller için geliştirilmiş bir masaüstü uygulamasıdır. Uygulama, cevher hazırlama işlemlerinin simülasyonunu ve analizini yaparak, bu süreçlerin daha iyi anlaşılmasını ve optimize edilmesini amaçlamaktadır.
+Bu proje, Cevher Hazırlama Mühendisliği alanında eğitim gören öğrenciler ve bu alanda çalışma yürütenker için geliştirilmiş bir masaüstü uygulamasıdır. Uygulama, cevher hazırlama işlemlerinin simülasyonunu ve analizini yaparak, bu süreçlerin daha iyi anlaşılmasını ve optimize edilmesini amaçlamaktadır.
 
 ## Geliştirme Araçları ve Teknolojiler
 
