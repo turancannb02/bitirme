@@ -2,7 +2,9 @@
 
 ## Proje Hakkında
 
-Bu proje, Cevher Hazırlama Mühendisliği alanında eğitim gören öğrenciler ve bu alanda çalışma yürütenker için geliştirilmiş bir masaüstü uygulamasıdır. Uygulama, cevher hazırlama işlemlerinin simülasyonunu ve analizini yaparak, bu süreçlerin daha iyi anlaşılmasını ve optimize edilmesini amaçlamaktadır.
+Bu proje, Cevher Hazırlama Mühendisliği alanında eğitim gören öğrenciler ve bu alanda çalışma yürütenler için geliştirilmiş bir masaüstü uygulamasıdır. Uygulama, cevher hazırlama işlemlerinin simülasyonunu ve analizini yaparak, bu süreçlerin daha iyi anlaşılmasını ve optimize edilmesini amaçlamaktadır.
+
+Yrd. Doç. Dr. Kudret Tahsin Perek ile bu proje 2022-2023 dönemlerinde Bitirme Projesi olarak hazırlanmıştır.
 
 ## Geliştirme Araçları ve Teknolojiler
 
@@ -22,20 +24,46 @@ Projeyi kullanabilmek için aşağıdaki adımları takip ediniz:
 1. **Python Yükleyin**: Eğer bilgisayarınızda Python yüklü değilse, [Python'un resmi web sitesinden](https://www.python.org/downloads/) Python'un en son sürümünü yükleyin.
 2. **Gerekli Kütüphaneleri Kurun**: Projede kullanılan kütüphaneleri yüklemek için terminal veya komut istemcisini açın ve aşağıdaki komutu çalıştırın:
 
-```
-pip install PyQt5 pandas numpy scikit-learn xlrd openpyxl
-```
+    ```bash
+    pip install PyQt5 pandas numpy scikit-learn xlrd openpyxl
+    ```
 
 ## Kullanım
 
 Projeyi çalıştırmak için:
 
-1. Projeyi GitHub üzerinden indirin veya git komutu ile klonlayın.
-2. Terminal veya komut istemcisini açın ve projenin bulunduğu klasöre gidin.
-3. Ana Python dosyasını çalıştırın ve aşağıdaki komutu kullanın:
+1. **Projeyi GitHub'dan İndirin**: Projeyi GitHub üzerinden indirin veya aşağıdaki git komutunu kullanarak klonlayın:
 
-```
-python main.py
-```
+    ```bash
+    git clone https://github.com/turancannb02/bitirme.git
+    ```
 
+2. **Proje Klasörüne Geçin**: Terminal veya komut istemcisini açın ve projenin bulunduğu klasöre gidin:
 
+    ```bash
+    cd bitirme
+    ```
+
+3. **Ana Python Dosyasını Çalıştırın**: Projeyi çalıştırmak için aşağıdaki komutu kullanın:
+
+    ```bash
+    python main.py
+    ```
+
+## Projeyi Güncellemek
+
+Projede yapılan değişiklikleri almak için aşağıdaki adımları izleyin:
+
+1. **Klonlanan Proje Klasörüne Geçin**: Terminal veya komut istemcisini açın ve proje klasörüne gidin:
+
+    ```bash
+    cd bitirme
+    ```
+
+2. **Değişiklikleri Çekin**: Aşağıdaki komutu kullanarak GitHub üzerindeki değişiklikleri yerel deponuza çekin:
+
+    ```bash
+    git pull origin main
+    ```
+
+Bu adımlar, projeyi GitHub üzerinden indirip çalıştırmak isteyen öğrenciler için gerekli talimatları içerir. Eğer herhangi bir sorunla karşılaşırsanız, lütfen proje sorumlusu ile iletişime geçin.
