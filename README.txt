@@ -4,7 +4,7 @@
 
 Bu proje, Cevher Hazırlama Mühendisliği alanında eğitim gören öğrenciler ve bu alanda çalışma yürütenler için geliştirilmiş bir masaüstü uygulamasıdır. Uygulama, cevher hazırlama işlemlerinin simülasyonunu ve analizini yaparak, bu süreçlerin daha iyi anlaşılmasını ve optimize edilmesini amaçlamaktadır.
 
-Yrd. Doç. Dr. Kudret Tahsin Perek ile bu proje 2022-2023 dönemlerinde Bitirme Projesi olarak hazırlanmıştır.
+Yrd. Doç. Dr. Kudret Tahsin Perek'in destekleriyle ile bu proje 2022-2023 dönemlerinde Bitirme Projesi olarak hazırlanmıştır.
 
 ## Geliştirme Araçları ve Teknolojiler
 
@@ -66,4 +66,4 @@ Projede yapılan değişiklikleri almak için aşağıdaki adımları izleyin:
     git pull origin main
     ```
 
-Bu adımlar, projeyi GitHub üzerinden indirip çalıştırmak isteyen öğrenciler için gerekli talimatları içerir. Eğer herhangi bir sorunla karşılaşırsanız, lütfen proje sorumlusu ile iletişime geçin.
+Bu adımlar, projeyi GitHub üzerinden indirip çalıştırmak isteyen öğrenciler için gerekli talimatları içerir. Eğer herhangi bir sorunla karşılaşırsanız, lütfen buyukkamaci18@itu.edu.tr'den iletişime geçin.
