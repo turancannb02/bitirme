@@ -66,4 +66,4 @@ Projede yapılan değişiklikleri almak için aşağıdaki adımları izleyin:
     git pull origin main
     ```
 
-Bu adımlar, projeyi GitHub üzerinden indirip çalıştırmak isteyen öğrenciler için gerekli talimatları içerir. Eğer herhangi bir sorunla karşılaşırsanız, lütfen proje sorumlusu ile iletişime geçin.
+Bu adımlar, projeyi GitHub üzerinden indirip çalıştırmak isteyen öğrenciler için gerekli talimatları içerir. Eğer herhangi bir sorunla karşılaşırsanız, lütfen buyukkamaci18@itu.edu.tr'den iletişime geçin.
