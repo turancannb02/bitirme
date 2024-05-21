@@ -4,7 +4,7 @@
 
 Bu proje, Cevher Hazırlama Mühendisliği alanında eğitim gören öğrenciler ve bu alanda çalışma yürütenler için geliştirilmiş bir masaüstü uygulamasıdır. Uygulama, cevher hazırlama işlemlerinin simülasyonunu ve analizini yaparak, bu süreçlerin daha iyi anlaşılmasını ve optimize edilmesini amaçlamaktadır.
 
-Yrd. Doç. Dr. Kudret Tahsin Perek ile bu proje 2022-2023 dönemlerinde Bitirme Projesi olarak hazırlanmıştır.
+Yrd. Doç. Dr. Kudret Tahsin Perek'in destekleriyle ile bu proje 2022-2023 dönemlerinde Bitirme Projesi olarak hazırlanmıştır.
 
 ## Geliştirme Araçları ve Teknolojiler
 
