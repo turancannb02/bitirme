@@ -47,7 +47,7 @@ Projeyi çalıştırmak için:
 3. **Ana Python Dosyasını Çalıştırın**: Projeyi çalıştırmak için aşağıdaki komutu kullanın:
 
     ```bash
-    python main.py
+    python setup.py
     ```
 
 ## Projeyi Güncellemek
